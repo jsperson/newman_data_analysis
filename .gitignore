@@ -9,6 +9,9 @@ venv/
 # Notebooks
 .ipynb_checkpoints/
 
+# Local project handoff notes
+/assignments/Final_Project/PROJECT_CONTEXT.md
+
 # Environment / secrets
 .env
 .env.*
