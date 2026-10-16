@@ -11,6 +11,7 @@ venv/
 
 # Local project handoff notes
 /assignments/Final_Project/PROJECT_CONTEXT.md
+/assignments/Final_Project/PRESENTATION_BRIEF.md
 
 # Environment / secrets
 .env
